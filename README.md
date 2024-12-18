@@ -1,0 +1,1 @@
+Fontes do trabalho de conclusão de curso da graduação em Engenharia Civil da Universidade de Pernambuco. O sistema é compilado para sistema operacional windows 64 bits. Possui uma interface gráfica de usuário e permite o cálculo de esforços solicitantes em estruturas bidimensionais como vigas e pórticos.
